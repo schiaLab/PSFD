@@ -18,15 +18,11 @@ This module could be used specifically for analyzing dynamic variable originated
 
 ### What dimension is optimal for my analysis?
 
-In short, it is highly likely that the optimal number will depends on your field. Although I might inform you that theoretically, larger the size of the dimension, the better estimate you get.
+In short, it is highly likely that the optimal number will depends on your field. 
 
 ### What threshold interval is optimal for my analysis?
 
 I might say that this also depends on your field. When I use this module for my study, I found that (1.001, 2) is the quite optimal interval. So make sure to test several intervals while the plotting option is on. When choosing wide enough interval, you might find the interval that shows the most linear relation, and where threshold value is too small or large. You might also have to consider that mathematically, changing the embedding dimension also effects the threshold interval.
-
-### What does this analysis matter in the first place?
-
-If you are familiar with the concept of complex systems and chaos theory, you might know that some variables are impossible to predict but do have certain patterns. Fractal dimension is one of them. By using this method, you might get a clue of its unique structure of unpredictable time series data that might helps you to distinguish different or similar systems. In other words, you might use this method for feature extractions, system analysis, etc. However, the actual usage is up to you.
 
 
 ## Reference
